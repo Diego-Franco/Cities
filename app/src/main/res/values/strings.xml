@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CBS Demo</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <!-- Using id from the 5 cities from the email -->
+
+    <string name="list_cities">5391959,5128581,2643743,360630,1850147</string>
+
+    <!-- Use the currently string for show in the detail screen -->
+
+    <string name="currently">Currently</string>
+
+    <!-- User a message string for error from the request if we have a problem -->
+    <string name="internal_server_error">Server Error</string>
+</resources>
